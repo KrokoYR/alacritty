@@ -1,0 +1,19 @@
+import = [
+    "~/.config/alacritty/themes/themes/nordic.toml"
+]
+
+[font.normal]
+family = "MesloLGL Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "MesloLGL Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "MesloLGL Nerd Font"
+style = "Italic"
+
+[font]
+size = 16
+
