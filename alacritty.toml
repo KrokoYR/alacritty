@@ -1,6 +1,4 @@
-import = [
-    "~/.config/alacritty/themes/themes/nordic.toml"
-]
+import = ["~/.config/alacritty/themes/themes/nordic.toml"]
 
 [font.normal]
 family = "MesloLGL Nerd Font"
@@ -17,3 +15,6 @@ style = "Italic"
 [font]
 size = 16
 
+[shell]
+program = "/bin/zsh"
+args = ["-l"]
